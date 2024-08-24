@@ -1,0 +1,121 @@
+.box1{
+    text-align: center;
+    height: 60px;
+    font-size: 40px;
+    color: white;
+}
+.background-img{
+    background-image: url("background3.jpg");
+    background-size: cover;
+    height: 800px;
+}
+.btnnmmm button{
+    background-color: palevioletred;
+    color: white;
+    width: 150px;
+    margin-top: 70px;
+    border-radius: 50px;
+}
+.box-btnn button{
+    width: 350px;
+    height: 50px;
+    margin-top: 20px;
+    background-color: purple;
+    font-size: 1.3rem;
+    color: white;
+}
+.contain h1{
+font-size: 40px;
+color: blueviolet;
+text-align: center;
+}
+.contain p{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+.text-tag h1{
+    font-size: 40px;
+   text-align: center;
+   color: white;
+}
+.text-tag p{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+.mark-johnson h1{
+    font-size: 40px;
+}
+.mark-johnson p{
+    font-size: 20px;
+}
+.contain2 h1{
+    color: blue;
+    margin-top: 30px;
+    text-align: center;
+}
+.card-title{
+    color: blue;
+}
+.txt2 h1{
+    color: blue;
+    text-align: center;
+}
+.contain-last{
+    margin-top: 20px;
+    background-image: url("last background.webp");
+    background-size: cover;
+    height: 700px;
+
+}
+.txt-3 h1{
+    font-size: 40px;
+    text-align: center;
+}
+.txt-3 p{
+    font-size: 20px;
+    text-align: center;
+}
+.butnn{
+    text-align: center;
+    margin-top: 100px;
+}
+.btn{
+    width: 300px;
+    color: black;
+    background-color: white;
+    margin-top: 10px;
+}
+ .buttnn2 button{
+    width:620px ;
+    height: 50px;
+    text-align: left;
+}
+
+.blue-container{
+    background-color: blue;
+    height: 600px;
+    margin-top: 40px;
+}
+/* Extra small devices (phones, 600px and down) */ 
+ @media only screen and (max-width: 600px) {
+    .buttnn2 button{
+        width: 340px;
+        margin-left: -83px;
+    }
+}
+    
+    
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/* @media only screen and (min-width: 600px) {...} */
+
+/* Medium devices (landscape tablets, 768px and up) */
+/* @media only screen and (min-width: 768px) {...} */
+
+/* Large devices (laptops/desktops, 992px and up) */
+/* @media only screen and (min-width: 992px) {...} */
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* @media only screen and (min-width: 1200px) {...} */
